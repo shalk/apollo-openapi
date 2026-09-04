@@ -1,0 +1,21 @@
+apollo-openapi.yaml
+  s_15f5a052e84cf0::t_a7ffab5525ad14 994,1059,1130,1133,1139-1144
+tests/test_item_batch_contract.py
+  s_15f5a052e84cf0::t_638b6bbd8b239d 69,90,92-96
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "62d3b987d3da8e2ee1e6de8639f0b345671abc6b",
+  "prompts": {},
+  "sessions": {
+    "s_15f5a052e84cf0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_15f5a052e84cf0",
+        "model": "unknown"
+      },
+      "human_author": "shalk(xiao kun) <xshalk@outlook.com>"
+    }
+  }
+}
